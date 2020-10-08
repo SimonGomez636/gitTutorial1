@@ -14,6 +14,7 @@
 		5F236C72252F587E005B338A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F236C70252F587E005B338A /* LaunchScreen.storyboard */; };
 		5F236C7D252F587E005B338A /* gitTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F236C7C252F587E005B338A /* gitTutorialTests.swift */; };
 		5F236C88252F587E005B338A /* gitTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F236C87252F587E005B338A /* gitTutorialUITests.swift */; };
+		5F236C98252F5A84005B338A /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F236C97252F5A84005B338A /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5F236C83252F587E005B338A /* gitTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F236C87252F587E005B338A /* gitTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitTutorialUITests.swift; sourceTree = "<group>"; };
 		5F236C89252F587E005B338A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F236C97252F5A84005B338A /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				5F236C67252F587D005B338A /* AppDelegate.swift */,
 				5F236C69252F587D005B338A /* ViewController.swift */,
+				5F236C97252F5A84005B338A /* MapForItinerary.swift */,
 				5F236C6B252F587D005B338A /* Main.storyboard */,
 				5F236C6E252F587E005B338A /* Assets.xcassets */,
 				5F236C70252F587E005B338A /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				5F236C6A252F587D005B338A /* ViewController.swift in Sources */,
 				5F236C68252F587D005B338A /* AppDelegate.swift in Sources */,
+				5F236C98252F5A84005B338A /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
